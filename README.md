@@ -12,3 +12,7 @@ Buat aplikasi "News Feed Simulator" menggunakan Kotlin dengan fitur:
 5. Coroutines untuk mengambil detail berita secara async
 
 ## Hasil
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d5414a94-e5b2-4a1d-8e59-fb146299594a" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/75aca5fe-7828-4872-ab5c-66335b1da77f" />
